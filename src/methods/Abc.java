@@ -1,4 +1,4 @@
-package METHODS;
+package methods;
 
 public class Abc {
 
